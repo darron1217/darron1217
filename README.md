@@ -31,7 +31,7 @@
 - 웹
     - [![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=black)](https://ko.reactjs.org/)
     - [![Angular](https://img.shields.io/static/v1?label=&message=Angular&color=DD0031&logo=angular&logoColor=white)](https://angular.io/)
-    - [![Vue](https://img.shields.io/static/v1?label=&message=Vue&color=4FC08D&logo=vue&logoColor=white)](https://angular.io/)
+    - [![Vue](https://img.shields.io/static/v1?label=&message=Vue&color=4FC08D&logo=vue.js&logoColor=white)](https://angular.io/)
 - 모바일 앱 (하이브리드, 크로스플랫폼)
     - [![React Native](https://img.shields.io/static/v1?label=&message=React%20Native&color=61DAFB&logo=react&logoColor=black)](https://reactnative.dev/)
     - [![Ionic](https://img.shields.io/static/v1?label=&message=Ionic&color=3880FF&logo=ionic&logoColor=white)](https://ionicframework.com/)
