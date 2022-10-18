@@ -4,9 +4,9 @@
 
 ![프로필 카운터](https://komarev.com/ghpvc/?username=darron1217)
 
-[![Github 통계](https://github-readme-stats.vercel.app/api?username=darron1217&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Github 통계](https://github-readme-stats.vercel.app/api?username=darron1217&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![많이 사용한 언어](https://github-readme-stats.vercel.app/api/top-langs/?username=darron1217&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![많이 사용한 언어](https://github-readme-stats.vercel.app/api/top-langs/?username=darron1217&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 기술스택
 
