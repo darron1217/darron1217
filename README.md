@@ -9,8 +9,10 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darron1217&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Interested in
-- Ethereum Protocol
+- Scaling Ethereum
+- Beam Chain
 - Mitigate the negative externalities posed by MEV
+
 
 ### Tech Stack
 
